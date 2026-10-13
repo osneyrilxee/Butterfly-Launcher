@@ -1,0 +1,5 @@
+Butterfly-Launcher/
+├── launcher.py        # Main GUI application code
+├── requirements.txt   # List of Python dependencies
+├── README.md          # Project documentation
+└── assets/            # UI assets and icons
