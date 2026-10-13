@@ -16,19 +16,15 @@ The tool simplifies running older versions while providing a clean and intuitive
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Download & Run
 
-* **Language:** Python 3.10+
-* **GUI Framework:** `customtkinter`
-* **Process Orchestration:** Native `subprocess` module
-* **OS Compatibility:** Windows 10 / 11
+No Python installation required for end users! Standalone executables for Windows (`.exe`) and Linux will be downloadable directly from the **Releases** page.
 
 ---
 
-## 🚀 Installation & Usage
+## 🛠️ Building from Source (Developers)
 
-### Prerequisites
-Make sure you have Python 3.10 or higher installed on your system.
+If you want to run or build the project from source:
 
 ```bash
 # 1. Clone the repository
